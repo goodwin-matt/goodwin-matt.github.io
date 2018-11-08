@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I currently work at Oracle Data Cloud as a Data Scientist working on problems in the digitial advertising industry. Previous to the ODC, I did a brief internship at Duke University in the Laboratory of Psychiatric Neuroengineering analyzing electrical signals from mice brains to help the lab better understand mental health disorders.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I got my graduate degree in statistics and my undergraduate in applied math, both from BYU.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I love all things outdoors, especially backpacking in the mountain west, and reading books on historic figures.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Above all I love spending time with my family - especially hiking with my family and telling them about historic figures I am reading about. 
