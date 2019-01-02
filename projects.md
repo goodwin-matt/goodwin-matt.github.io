@@ -4,10 +4,12 @@ title: Projects
 docurl: test/test.pdf
 ---
 
-__**Bayesian Compressive Sensing**__
+__Bayesian Compressive Sensing__
 <br/>
 
-I find Bayesian statistics and compressive sensing to both be very fascinating subjects and was fortunate enough to work on the intersection of these two areas for my masters thesis. The main goal of my research was to use Bayesian compressive sensing to characterize nonlinear chirp signals provided by Los Alamos National Laboratories. A byproduct of that work however was developing an R package using Rcpp and submitting it to CRAN. As of this writing the package is no longer on CRAN because of some issues with working on Solaris computers but I hope to get to it someday (I'll be honest - probably never unless someone contacts me about it). 
+I find Bayesian statistics and compressive sensing to both be very fascinating subjects and was fortunate enough to work on the intersection of these two areas for my masters thesis. The main goal of my research was to use Bayesian compressive sensing to characterize nonlinear chirp signals provided by Los Alamos National Laboratories. 
+
+A byproduct of that work however was developing an R package using Rcpp and submitting it to CRAN. As of this writing the package is no longer on CRAN because of some issues with working on Solaris computers but I hope to get to it someday (I'll be honest - probably never unless someone contacts me about it). 
 
 In the meantime the code works just fine and can be accessed on github [here](https://github.com/goodwin-matt/bcs). My thesis can be accessed [here][1] in pdf format.
  

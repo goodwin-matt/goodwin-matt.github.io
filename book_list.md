@@ -26,7 +26,7 @@ permalink: /books/
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 ![Lincoln](/images/lincoln.jpeg){: .image-left } This is written by my aunt (just kidding!) In all seriousness though, Doris Goodwin is an exceptional author and winner of the Pulitzer Prize as well. This was a really cool perspective on Lincoln by also focusing on the people around him. What stood out to me about Lincoln is his humor in the darkest times and his consistent humility. I think those attributes are the ones that have cemented his legacy.
 <br/>
