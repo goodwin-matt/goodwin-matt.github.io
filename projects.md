@@ -23,3 +23,8 @@ Many thanks to my professor at the time Dr. Shane Reese, who is now the Dean of 
 
 This was part of a hackathon I did at work with a colleague. We both wanted to learn more about reinforment learning and how to apply it to this online AI game called Halite that my colleague found (see [here](https://halite.io) for game). We found this great [blog](https://keon.io/deep-q-learning/) that implemented deep-q learning for the CartPole game and wanted to apply the [code](https://github.com/keon/deep-q-learning) to Halite.  
 
+
+**Predicting Cell Phone Switchers**
+
+Project I worked on with Nate Klyn at Oracle Data Cloud. Because it is proprietary information I can't go into too much detail, but Nate wrote a great blog post about the project on [DataScience.com](https://www.datascience.com/blog/oracle-data-science-case-study-in-telecom) if you are interested in a broad overview.
+
