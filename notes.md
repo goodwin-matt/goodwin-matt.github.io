@@ -4,10 +4,18 @@ title: Notes
 permalink: /notes/
 ---
 
-#### Statistical Modeling Theory and Overview
+<center> <h4> Statistical Modeling Theory and Overview </h4> </center>
 
-#### Ensemble methods 
+| Resource      | Description |
+| ----------- | ----------- |
+| My [notes][1] in pdf format.| This is a        |
+| Bias/Variance   | Text        |
 
-1. **Boosting**
+[1]:{{ site.url }}/pdfs/statistical_modeling_overview_and_theory.pdf
 
-   * This [overview](https://explained.ai/gradient-boosting/index.html) gives a very intuitive and easy to follow explanation of gradient boosting from one of the founders of fast.ai
+<center> <h4> Ensemble methods </h4> </center> 
+
+| Resource      | Description |
+| ----------- | ----------- |
+| [Overview of gradient boosting by FastAI](https://explained.ai/gradient-boosting/index.html)  | This gives a very intuitive and easy to follow explanation of gradient boosting from one of the founders of fast.ai|
+
