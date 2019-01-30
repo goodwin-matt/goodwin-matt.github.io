@@ -1,20 +1,44 @@
 ---
 layout: default
 ---
-
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figure figcaption {
+    text-align: center;
+}
+</style>
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
+
 <p>
-This website is an attempt to better organize my thoughts, notes, side projects, and other resources for better understanding the very broad yet simultaneously deep field of data science.
+Hello! This website is an attempt to better organize my thoughts, notes, side projects, and other resources for better understanding the very broad yet simultaneously deep field of data science.
 </p>
 
 <p>
-I felt it would be best to make these resources available to others in the hopes that I can help contribute to the data science community in some small way since I have been the beneficiary of many open source projects, blog posts and various other resources out there. 
+I felt it would be best to make these resources available to others in the hopes that I can help contribute to the data science community in some small way since I have been the beneficiary of many open source projects, tutorials, blog posts and various other resources out there. 
 </p>
+
+<p>
+Feel free to reach out at my email below with anything data science related. 
+</p>
+
+<p>
+Or anything outdoor related is cool too :)
+</p> 
+
+<figure>
+  <img src="/images/Picture1.png" alt="outdoor", class="center">
+  <figcaption>Hiking in the Colorado Rockies</figcaption>
+</figure>
+
 
  
 <!--  {%- if site.posts.size > 0 -%}

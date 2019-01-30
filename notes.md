@@ -8,7 +8,7 @@ permalink: /notes/
 
 | Resource      | Description |
 | ----------- | ----------- |
-| My [notes][1] in pdf format.| This is a        |
+| My [notes][1] in pdf format.| These are notes I've taken from my reading dealing with the more theoretical and foundational parts of statistical modeling.         |
 | Bias/Variance   | Text        |
 
 [1]:{{ site.url }}/pdfs/statistical_modeling_overview_and_theory.pdf
@@ -19,3 +19,12 @@ permalink: /notes/
 | ----------- | ----------- |
 | [Overview of gradient boosting by FastAI](https://explained.ai/gradient-boosting/index.html)  | This gives a very intuitive and easy to follow explanation of gradient boosting from one of the founders of fast.ai|
 
+<center> <h4> Technical Tidbits </h4> </center>
+
+| Resource      | Description |
+| ----------- | ----------- |
+| [Big data common commands][2]  | These are common big data commands and code I've collected |
+| [Linux/Unix/Bash commands][3] | Common command line commands I've collected |
+
+[2]:{{ site.url }}/spark_commands/
+[3]:{{ site.url }}/linux_commands/

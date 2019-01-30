@@ -13,4 +13,3 @@ Outside of data science I love being outside in the mountains, playing and watch
 Feel free to contact me about anything related to data science at my email below.
 
 [1]:{{ site.url }}/books/
-[2]:{{ site.url }}
