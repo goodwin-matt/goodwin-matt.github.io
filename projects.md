@@ -25,5 +25,8 @@ Project I worked on with Nate Klyn at Oracle Data Cloud. Because it is proprieta
 
 This was part of a hackathon I did at work with a colleague. We both wanted to learn more about reinforment learning and how to apply it to this online AI game called Halite that my colleague found (see [here](https://halite.io) for game). We found this great [blog](https://keon.io/deep-q-learning/) that implemented deep-q learning for the CartPole game and wanted to apply the [code](https://github.com/keon/deep-q-learning) to Halite.  
 
+**Walmart Price Checker - Textbook arbitrage**
 
+I heard this great Planet Money [podcast](https://www.npr.org/sections/money/2014/11/10/363103753/textbook-arbitrage-making-money-off-used-books) the other day about some guys who figured out a true arbitrage opportunity with college textbooks. I wanted to see if this was true for myself so I looked into ways of creating a daily cron job that would automatically download the prices of books or other items from Amazon. It wasn't as easy as I would have hoped to do this with Amazon so I switched to Walmart.com. I'm curious to see if I find the same signal they did on Walmart's website so I'd like to update this in the future. The script I use to scrape the Walmart data is given [here][2].
 
+[2]:{{ site.url }}/code/walmart_get_price.py
