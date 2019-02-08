@@ -23,7 +23,9 @@ Project I worked on with Nate Klyn at Oracle Data Cloud. Because it is proprieta
 
 **Reinforcement learning in the game Halite using deep q-learning**
 
-This was part of a hackathon I did at work with a colleague. We both wanted to learn more about reinforment learning and how to apply it to this online AI game called Halite that my colleague found (see [here](https://halite.io) for game). We found this great [blog](https://keon.io/deep-q-learning/) that implemented deep-q learning for the CartPole game and wanted to apply the [code](https://github.com/keon/deep-q-learning) to Halite.  
+This was part of a hackathon I did at work with a colleague. We both wanted to learn more about reinforment learning and how to apply it to this online AI game called Halite that my colleague found (see [here](https://halite.io) for game). We found this great [blog](https://keon.io/deep-q-learning/) that implemented deep-q learning for the CartPole game and wanted to apply the [code](https://github.com/keon/deep-q-learning) to Halite. We never were able to finish the project but learned a lot from the experience and found how powerful reinforcement learning can be. I coded up the deep-q learning tutorial [here][3] in a Jupyter notebook.
+
+[3]:{{ site.url }}/pdfs/Q-learning_tutorial.html
 
 **Walmart Price Checker - Textbook arbitrage**
 

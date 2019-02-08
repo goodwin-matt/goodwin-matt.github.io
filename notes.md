@@ -25,6 +25,10 @@ permalink: /notes/
 | ----------- | ----------- |
 | [Big data common commands][2]  | These are common big data commands and code I've collected |
 | [Linux/Unix/Bash commands][3] | Common command line commands I've collected |
+| [Python and Pandas commands][4] | Common python and pandas commands I've collected |
+
+
 
 [2]:{{ site.url }}/spark_commands/
 [3]:{{ site.url }}/linux_commands/
+[4]:{{ site.url }}/python_commands/
