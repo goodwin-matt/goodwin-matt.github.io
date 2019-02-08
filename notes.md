@@ -9,7 +9,6 @@ permalink: /notes/
 | Resource      | Description |
 | ----------- | ----------- |
 | My [notes][1] in pdf format.| These are notes I've taken from my reading dealing with the more theoretical and foundational parts of statistical modeling.         |
-| Bias/Variance   | Text        |
 
 [1]:{{ site.url }}/pdfs/statistical_modeling_overview_and_theory.pdf
 
