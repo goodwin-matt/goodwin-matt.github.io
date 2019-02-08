@@ -5,12 +5,12 @@ permalink: /spark_commands/
 
 <center> <h4> Common Spark Commands</h4> </center>
 
-```python
-Important imports:
 
+Important imports:
+```python
 import pyspark
 from pyspark.sql import SparkSession
-from pyspark.sql.function import *
+from pyspark.sql.functions import *
 from pyspark.sql import Window
 spark = SparkSession.builder.enableHiveSupport().getOrCreate()
 ```
