@@ -10,6 +10,9 @@ permalink: /python_commands/
 | ----------- | ----------- |
 | virtualenv "name" | Create new python virtual environment. The next command to enter is source name/bin/activate to activate the environment|
 | deactivate | Deactivate virtual environment|
+| pip freeze | List python packages in environment |
+| pip install package==1.0.0 | Install package version 1.0.0 |
+
 
 | Pandas | Description |
 | Minimally sufficient pandas [notebook][1]| This is a jupyter notebook I created to store important pandas commands and best practices. This notebook follows this [great blog post](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428) called "Minimally Sufficient Pandas" by Ted Petrou.|
