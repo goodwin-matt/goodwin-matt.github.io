@@ -1,9 +1,9 @@
----:
+---
 layout: page
 permalink: /spark_commands/
 ---
 
-<center> <h4> Common Spark Commands</h4> </center>
+<center> <h4> Common Hive and Spark Commands</h4> </center>
 
 
 | Description                                                          | Hive Command                                                                             | Spark DataFrame Command                                                                             |
@@ -17,7 +17,7 @@ permalink: /spark_commands/
 | Where clause                                                         | select * from df where col1='value'                                                      | df.filter(col('col1')=='value')                                                                     |
 | Group by col1 and sum col2                                           | select sum(col2) as col1_sum from df group by col1                                       | df.groupby('col1').agg(sum('col2').alias('col1_sum')                                                |
 | Save to table                                                        | create table table_name as select * from df                                              | df.write.mode("overwrite").saveAsTable('table_name')                                                |
-| Window function                                                      | select col1, row_number() over (partition by col1 order by col2 desc) as row_num from df | df.withColumn("row_num", row_number().over(Window.partitionBy('col1').orderBy(col('col2').desc()))) |
+| Window function                                                      | select col1, row_number() over (partition by col1 order by col2 desc) as row_num from df | window = Window.partitionBy('col1').orderBy(col('col2').desc()) <br> df.withColumn("row_num", row_number().over(window)) |
 | Case statement                                                       | select case when col1 between x and y then 'xy' else 'other' end as xy_case from df      | df.withColumn("xy_case", when((col('col1')>x) & (col('col1')<y), 'xy').otherwise('other')           |
 | Replace nulls with value                                             | select coalesce(col1, cast(0 as bigint)) as col1_nonull from df                          | df.fillna({'col1':0})                                                                               |
 | Inner join                                                           | select a.*, b.* from df a inner join df2 b on a.col1=b.col1                              | df.join(df2, on='col1', how='inner')                                                                |
