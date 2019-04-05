@@ -36,6 +36,6 @@ permalink: /notes/
 
 
 
-[2]:{{ site.url }}/spark_commands/
+[2]:{{ site.url }}/python_commands/
 [3]:{{ site.url }}/linux_commands/
 [4]:{{ site.url }}/python_commands/
