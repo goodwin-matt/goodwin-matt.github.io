@@ -18,6 +18,14 @@ permalink: /notes/
 | ----------- | ----------- |
 | [Overview of gradient boosting by FastAI](https://explained.ai/gradient-boosting/index.html)  | This gives a very intuitive and easy to follow explanation of gradient boosting from one of the founders of fast.ai|
 
+<center> <h4> Classical Statistical Models </h4> </center> 
+
+| Resource      | Description |
+| ----------- | ----------- |
+| [Overview of Linear Mixed Models](https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/)  | This gives a very well written and well motivated overview of linear mixed models. |
+
+
+
 <center> <h4> Technical Tidbits </h4> </center>
 
 | Resource      | Description |
