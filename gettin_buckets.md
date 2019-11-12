@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /gettin_buckets/
+---
+
+<center> <h4> Code for binning a variable in a spark data frame for histogram purposes</h4> </center>
+
 	from pyspark.sql import SparkSession
 	from pyspark.ml.feature import Bucketizer
 	import numpy as np
