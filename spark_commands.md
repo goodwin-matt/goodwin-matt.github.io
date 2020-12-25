@@ -29,5 +29,3 @@ permalink: /spark_commands/
 | Select rows based off pattern                                        | select * from df where col1 like pattern                                                 |                                                                                                     |
 
 
-
-

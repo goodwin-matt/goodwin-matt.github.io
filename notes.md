@@ -30,12 +30,15 @@ permalink: /notes/
 
 | Resource      | Description |
 | ----------- | ----------- |
-| [Big data common commands][2]  | These are common big data commands and code I've collected |
+| [Spark/Hive common commands][2]  | These are common spark/hive commands I've collected |
 | [Linux/Unix/Bash commands][3] | Common command line commands I've collected |
 | [Python and Pandas commands][4] | Common python and pandas commands I've collected |
-
+| [Spark "Gettin' Buckets" code][5] | Spark code for binning a variable in order to get at the distribution of the variable |
+| [Tensorflow visualize function][6] | Python function that displays pandas data frame data in a tensorflow visualization |
 
 
 [2]:{{ site.url }}/spark_commands/
 [3]:{{ site.url }}/linux_commands/
 [4]:{{ site.url }}/python_commands/
+[5]:{{ site.url }}/gettin_buckets/
+[6]:{{ site.url }}/tensor_visualize/
