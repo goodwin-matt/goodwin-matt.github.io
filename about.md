@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I am a data scientist currently working at Oracle Data Cloud, a branch of Oracle that focuses on problems in the digitial advertising industry. Previous to the ODC, I did a brief internship at Duke University in the [Laboratory of Psychiatric Neuroengineering](https://www.dzirasalabs.com/)  analyzing electrical signals from mice brains to help the lab better understand mental health disorders.
+I am a data scientist currently working at [Castell](https://castellhealth.com/), focusing on value-based healthcare. Previous to that I was at Oracle Data Cloud, a branch of Oracle that 
+works on problems in the adtech industry. 
+
+I did a brief internship at Duke University at the [Laboratory of Psychiatric Neuroengineering](https://www.dzirasalabs.com/)  analyzing electrical signals from mice brains to help the lab better understand mental health disorders.
 
 My graduate degree is in statistics and undergraduate degree in applied math, both from BYU.
 
